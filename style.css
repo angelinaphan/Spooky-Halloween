@@ -1,0 +1,34 @@
+body {
+text-align: center;
+  background-color:Black
+}
+
+h1 {
+  color:Orange;
+
+}
+
+td, th {
+  border:2px solid orange;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3, h5 {
+  color:white;
+}
+
+.house {
+  border-radius: 200px;
+}
+
+#list {
+  color: white
+}
+
+.trick {
+    border-radius: 200px;
+}
